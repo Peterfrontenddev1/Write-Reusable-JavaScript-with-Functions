@@ -22,3 +22,4 @@ Create a function called reusableFunction which prints the string Hi World to th
 
 Call the function.
 reusableFunction should be a function.
+If reusableFunction is called, it should output the string Hi World to the console.
