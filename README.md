@@ -7,6 +7,7 @@ Here's an example of a function:
 function functionName() {
 
 console.log("Hello World");
+
 }
 You can call or invoke this function by using its name followed by parentheses,
 like this: functionName();
