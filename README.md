@@ -21,3 +21,4 @@ Hello World on the dev console. All of the code between the curly braces will be
 Create a function called reusableFunction which prints the string Hi World to the dev console.
 
 Call the function.
+reusableFunction should be a function.
