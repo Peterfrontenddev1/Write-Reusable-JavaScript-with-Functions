@@ -34,7 +34,7 @@ Here's an example of a function:
 
 function functionName() {
 
-  console.log("Hello World");
+ 
   
  
 
