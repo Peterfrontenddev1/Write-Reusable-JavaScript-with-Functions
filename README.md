@@ -29,4 +29,3 @@ If reusableFunction is called, it should output the string Hi World to the conso
 You should call reusableFunction once it is defined.
 
 In JavaScript, we can divide up our code into reusable parts called functions.
-
